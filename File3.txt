@@ -1,1 +1,3 @@
 I am in File3
+
+New Bug fix
